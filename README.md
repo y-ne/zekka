@@ -1,3 +1,7 @@
+# Zekka
+
+The name `Zekka` originates from the character Zekka Miyamoto in Junior High School DxD.
+
 ## Dev Notes
 
 ```bash
