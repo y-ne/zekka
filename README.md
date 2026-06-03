@@ -2,7 +2,7 @@
 
 The name `Zekka` originates from the character Zekka Miyamoto in Junior High School DxD.
 
-### Time Wasted : 5 Hour
+### Time Wasted : 6 Hour
 
 ## Settings
 
